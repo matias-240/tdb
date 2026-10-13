@@ -26,7 +26,7 @@ window.DESTINOS = {
   "24": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Triumph · Traje de baño · SKU 883895165
   "25": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Bohodot · Top + Bottom · SKU 17680335 / 17680331
   "26": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Robin · Top + Bottom · SKU 17718474 / 17718478
-  "27": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Basement · Paula Mekis para Basement
-  "28": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Aguabendita · Bikini
+  "27": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Aguabendita · Bikini
+  "28": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Basement · Paula Mekis para Basement
   "29": "https://www.falabella.com/falabella-cl/page/trajes-de-bano", // Sybilla · Sofía Mekis para Sybilla
 };
